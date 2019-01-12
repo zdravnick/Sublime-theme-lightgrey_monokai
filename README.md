@@ -1,2 +1,2 @@
 # Sublime-theme-lightgrey_monokay
-Readable and eazy for eyes monokai-based theme..hm...i hope ) Enjoy it!
+Readable and eazy for eyes...hm...i hope ) monokai-based theme. Enjoy it!
